@@ -1,0 +1,1 @@
+ALTER TABLE repairs ADD vehicle_color VARCHAR(50);
